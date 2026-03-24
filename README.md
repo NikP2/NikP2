@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/1200x/0b/e4/fb/0be4fb07f9dc821a0bfd3476221f2bfb.jpg" style="width:50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikP2&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikP2&size_weight=0.5&count_weight=0.5&theme=radical)
 
 
 ![NikP2's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikP2&show_icons=true&theme=radical)
